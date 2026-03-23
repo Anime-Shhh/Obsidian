@@ -6,40 +6,51 @@
       {
         "id": "c2bd608cf6ee36cf",
         "type": "tabs",
-        "dimension": 70.19077901430842,
         "children": [
           {
-            "id": "42be8047a148dd0c",
+            "id": "f88ebb76e492f499",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "class registration.md",
+                "file": "Algos/Activity Selection Problem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "class registration"
+              "title": "Activity Selection Problem"
             }
-          }
-        ]
-      },
-      {
-        "id": "e001f5cf3d3f1162",
-        "type": "tabs",
-        "dimension": 29.809220985691574,
-        "children": [
+          },
           {
-            "id": "414eb4565da7c0c7",
+            "id": "823d11e60f5245f5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Prin Info&data mgmt/SQL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SQL"
+            }
+          },
+          {
+            "id": "6f569557697ba0a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Job Apps/Unique Questions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unique Questions"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -187,35 +198,41 @@
       "graph:Open graph view": false
     }
   },
-  "active": "42be8047a148dd0c",
+  "active": "6f569557697ba0a8",
   "lastOpenFiles": [
-    "Soft Meth/class 1.md",
-    "Data Management/Pandas.md",
-    "Data In Context",
-    "Data Management/Data Management Final Project.md",
-    "Intro to DS/Class 4.md",
+    "images/Pasted image 20260218011423.png",
+    "class registration.md",
+    "images/IMG_5404.jpg",
+    "Self Study/Audio CNNs/SoundSight.md",
     "Intro to DS/Intro to DS.md",
-    "Intro to DS/Class 2.md",
-    "Intro to DS/Class 1.md",
+    "Intro to DS/Kernel Density Estimators.md",
+    "Intro to DS/Midterm.md",
+    "Intro to DS/Dimensionality reduction.md",
+    "images/Pasted image 20260218012435.png",
+    "Pasted image 20251013161128.png.md",
+    "Soft Meth/midterm.md",
+    "Soft Meth/class 1.md",
+    "cba5bb11-a084-459a-9cf0-d27dbb579d24.jpeg",
+    "Prin Info&data mgmt/SQL.md",
     "Job Apps/Unique Questions.md",
     "Prin Info&data mgmt/Lecture4.md",
     "Prin Info&data mgmt/Lecture 3.md",
     "Prin Info&data mgmt/Lecture 2.md",
     "Prin Info&data mgmt/Lecture 1.md",
-    "Data In Context/Data in context final report.md",
-    "Data In Context/Data Context Presentations.md",
-    "lease.md",
-    "class registration.md",
-    "Algos/Interval Partitioning.md",
-    "Algos/Greedy Solution.md",
-    "Algos/Graphs.md",
-    "Algos/Ford Furkeson Algo.md",
-    "Algos/Dynamic Programming.md",
-    "Algos/Dominos.md",
-    "Algos/DFS.md",
-    "Algos/Campsite Problem.md",
-    "Algos/BFS.md",
+    "Self Study/Audio CNNs",
+    "Self Study",
     "Algos/Activity Selection Problem.md",
+    "Algos/Greedy Solution.md",
+    "Algos/Spanning Tree.md",
+    "Algos/Ski Assignment.md",
+    "Algos/Review Session.md",
+    "Algos/Recursion.md",
+    "images/Pasted image 20260212164513.png",
+    "Intro to DS/Class 6.md",
+    "Soft Meth/Inheritance and PolyMorphism.md",
+    "Algos/Interval Partitioning.md",
+    "Data Management/Pandas.md",
+    "Data In Context",
     "Job Apps",
     "images/Pasted image 20260129162144.png",
     "images/Pasted image 20260129161945.png",
@@ -225,15 +242,8 @@
     "Soft Meth",
     "IMG_5235.heic",
     "images/Pasted image 20260123142828.png",
-    "images/Pasted image 20260123141749.png",
-    "images/Pasted image 20260122163531.png",
     "Intro to DS",
     "Prin Info&data mgmt",
-    "Pasted image 20251013161128.png",
-    "recursion",
-    "Pasted image 20251013161109.png",
-    "Data Management",
-    "images/Pasted image 20251005213345.png",
-    "Algos"
+    "recursion"
   ]
 }

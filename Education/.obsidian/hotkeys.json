@@ -1,0 +1,11 @@
+{
+  "image-converter:process-all-images-current-note": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "C"
+    }
+  ]
+}
