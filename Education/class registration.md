@@ -16,7 +16,6 @@ Required still for data science:
 * 198 - soft meth - planned
 * 198 - intro ai
 
-
 Spring 26:
 * prin info data management
 * intro ds
@@ -29,15 +28,16 @@ Summer:
 Fall 2026:
 * reg methods
 * ML/DL
-* 198 - intro ai
+* minds machines
 
 Spring 2027:
 * applied stat learning
-* minds machines
+* 198 - intro ai
 
 
 
 
+24 credits accross 2 sems for reduced 
 
 Veds class question:
 
@@ -72,3 +72,10 @@ One system that I use everyday that organizes and shares information is our cour
 The viewpoint in the system is firstly administrative and institutional. It shows the priorities of the universities such as managing the enrollment capacity and preventing scheduling overlap, rather than giving the students a better experiene. Students who understand how the system works know to seek out help to advisors to optimize their schedules, but others are often left to struggle optimizing their schedule. Different users may experience the system differently because of this. A freshman student might be overwhelmed because they have no clue where anything is and have to search for everything manually which takes a lot of man hours. Whereas a experienced student like a senior will be cruising as they know where to access all information and who to contact for further assistance. Furthermore, the system doesn't favor worse cases like international students who may struggle even more navigating the new environment.
 
 Veranex code: #### b9FsXycy
+
+
+
+spacecrew.com # good for space jobs
+
+
+give me an in depth plan to give to codex and cursor to make these changes to the codebase to fix and improve the project. don't reference osu dreamer since it doesn't know what it is. In the times that you need to reference it, just reference in detail what should be done to make the fix, as apposed to saying osu dreamer did x functionality.

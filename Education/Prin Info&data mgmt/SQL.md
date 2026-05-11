@@ -71,4 +71,61 @@ WHERE s.age >= all(SELECT s.age from students s)
 ```
 
 
+### 5. name of students not in "198:111"
+```MySQL
+select s.name
+from students s, enrolledin e
+where s.cid = e.cid
+	and e.sid not in (
+		select distinct s.sid
+		from students
+		where s.sid = '198:111');
+```
+
+
+### 6. name of all students with a greater gpa than "Horatio"
+```MySQL
+select s.name
+from students
+where s.gpa > any(
+	select s.gpa
+	from students 
+	where s.name='Horatio')
+```
+
+### 7. number of courses offered by each department
+lets say you had to get a value y `for each` x in a table, you use groupby
+```MySQL
+select c.dept, count(*)
+from courses
+group by c.dept
+```
+
+### 8. find avg age of students enrolled in each course
+```MySQL
+select c.name, avg(s.age)
+from courses c, students s, enrolledin e
+where s.sid = e.sid 
+and e.cid = c.cid
+group by c.name
+```
+
+### 9. Find names of students with max gpa
+```MySQL
+select s.name
+from students s
+where s.gpa = (
+	select max(gpa)
+	from students);
+```
+
+### 10. for each student find out how many classes they got an A
+```MySQL
+select s.name, count(*)
+from students s, enrolledin e
+where s.sid = e.sid
+and e.grade = 'A'
+group by s.sid
+```
+
 ### Aggregate operators
