@@ -4,94 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "c2bd608cf6ee36cf",
+        "id": "0b831439d7bd8f37",
         "type": "tabs",
         "children": [
           {
-            "id": "f88ebb76e492f499",
+            "id": "064122694aa17158",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algos/Activity Selection Problem.md",
+                "file": "aim/note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Activity Selection Problem"
-            }
-          },
-          {
-            "id": "823d11e60f5245f5",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "6f569557697ba0a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prin Info&data mgmt/SQL.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SQL"
-            }
-          },
-          {
-            "id": "f88e87cc768c9413",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "class registration.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "class registration"
-            }
-          },
-          {
-            "id": "7a773992b0efd3bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Intro to DS/final/video_presentation_script.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "video_presentation_script"
-            }
-          },
-          {
-            "id": "9c18d9565bd02c9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Intro to DS/final/presentation_script_final.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "presentation_script_final"
+              "title": "note"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -239,52 +169,53 @@
       "graph:Open graph view": false
     }
   },
-  "active": "9c18d9565bd02c9d",
+  "active": "5b7ddff5ad9ed670",
   "lastOpenFiles": [
-    "Intro to DS/final/video_presentation_script.md",
-    "AIM Research Self Notes/First Meeting.md",
-    "images/dp.jpg",
-    "images/IMG_5404.jpg",
-    "images/Pasted image 20250925191749.png",
-    "class registration.md",
-    "Job Apps/Unique Questions.md",
-    "Job Apps/resume_content.md",
-    "Job Apps/Research.md",
-    "Untitled.base",
-    "f1 questions.md",
-    "Intro to DS/final/presentation_script_final.md",
-    "Intro to DS/final/final guidelines.md",
-    "Intro to DS/Class 1.md",
-    "Intro to DS/final/final_paper_draft.md",
-    "Intro to DS/final",
-    "AIM Research Self Notes",
-    "Prin Info&data mgmt/SQL.md",
-    "Algos/Activity Selection Problem.md",
-    "Prin Info&data mgmt/Normalization.md",
-    "Intro to DS/Class 4.md",
-    "NegBench/Ideas.md",
-    "NegBench",
-    "Intro to DS/Dimensionality reduction.md",
-    "Self Study/Audio CNNs/osu!M.md",
-    "Prin Info&data mgmt/pivot tables.md",
-    "Prin Info&data mgmt/Homework 3.md",
-    "images/Pasted image 20260218011423.png",
-    "Intro to DS/Intro to DS.md",
-    "Intro to DS/Kernel Density Estimators.md",
-    "Intro to DS/Midterm.md",
     "images/Pasted image 20260218012435.png",
-    "Pasted image 20251013161128.png.md",
-    "Soft Meth/midterm.md",
-    "cba5bb11-a084-459a-9cf0-d27dbb579d24.jpeg",
-    "Self Study/Audio CNNs",
-    "Self Study",
+    "images/Pasted image 20260218011423.png",
     "images/Pasted image 20260212164513.png",
-    "Data In Context",
-    "Job Apps",
     "images/Pasted image 20260129162144.png",
     "images/Pasted image 20260129161945.png",
     "images/Pasted image 20260129161909.png",
-    "Soft Meth/Untitled",
-    "Soft Meth"
+    "images/Pasted image 20260129161535.png",
+    "images/Pasted image 20260123142828.png",
+    "images/Pasted image 20260123141749.png",
+    "images/Pasted image 20260122163531.png",
+    "images/Pasted image 20251005213345.png",
+    "Concentrix.md",
+    "Calc 3/Test 1 Review.md",
+    "Calc 3/HW1 Polar Coordinates.md",
+    "Calc 3/HW2 3D Coordinates.md",
+    "Calc 3/HW4 Dot Product.md",
+    "Calc 3/Quiz 2.md",
+    "AIM Research Self Notes/MAMMAL_Architecture_Summary.md",
+    "Calc 3/HW11.md",
+    "Calc 3/HW10.md",
+    "Calc 3/HW9.md",
+    "Calc 3/HW8.md",
+    "Untitled.base",
+    "Calc 3/HW7.md",
+    "Calc 3/HW6.md",
+    "AIM Research Self Notes/MAMMAL.md",
+    "AIM Research Self Notes/First Meeting.md",
+    "aim/note.md",
+    "aim",
+    "Calc 3/HW5.md",
+    "Calc 3/HW3 Vectors.md",
+    "Algos/Minimum Coins.md",
+    "Algos/Dynamic Programming.md",
+    "Algos/Greedy Solution.md",
+    "Algos/Interval Partitioning.md",
+    "Calc 3",
+    "Data In Context/Data in context final report.md",
+    "Intro to DS/final/presentation_script_final.md",
+    "Intro to DS/final/video_presentation_script.md",
+    "Intro to DS/final",
+    "AIM Research Self Notes",
+    "NegBench",
+    "Self Study/Audio CNNs",
+    "Self Study",
+    "Data In Context",
+    "Job Apps"
   ]
 }
